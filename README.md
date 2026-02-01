@@ -37,10 +37,10 @@ A Python-based Inventory Management System using Tkinter and MySQL that enables 
 ## 🖥️ outputs
 
 ### Main Menu
-![Main Menu](outputs/MAIN MENU.png)
+![Main Menu](outputs/main_menu.png)
 
 ### Update Products
-![Update Products](outputs/update products.png)
+![Update Products](outputs/update_products.png)
 
 ### New Order
-![New Order](outputs/new orders.png)
+![New Order](outputs/new_order.png)
